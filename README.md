@@ -1,6 +1,6 @@
 # Hex-Pathfinding-Prototype
 This project is an A* pathfinding prototype that uses a randomly created hex map.
-
+  
 When running the project, it first generates a 15x15 map of hexagons. These hexes are randomly assigned a terrain type with a varying spawn chance.
 
 Each hex can be one of 4 types:
@@ -11,20 +11,17 @@ Each hex can be one of 4 types:
 
 
 
-Controls:
-
+Controls:  
 Select a capsule to move by either left-clicking it, or box-select it with left-click-drag.
 Move any selected capsule to a non-Mountain hex by right-clicking the hex.
 Move the camera with WASD.
 Zoom in/out with the scroll wheel.
-
-
-
-Preview!
-
+  
+  
+Preview!  
 ![](Recordings/sample_run.gif)
 
-CREDITS:
+CREDITS:  
 Custom min-heap implementation inspired by Sebastian Lague's implementation: https://github.com/SebLague/Pathfinding/tree/master/Episode%2004%20-%20heap
 
 
