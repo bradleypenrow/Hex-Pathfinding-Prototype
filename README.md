@@ -12,10 +12,10 @@ Each hex can be one of 4 types:
 
 
 Controls:  
-Select a capsule to move by either left-clicking it, or box-select it with left-click-drag.
-Move any selected capsule to a non-Mountain hex by right-clicking the hex.
-Move the camera with WASD.
-Zoom in/out with the scroll wheel.
+Select a capsule to move by either left-clicking it, or box-select it with left-click-drag.  
+Move any selected capsule to a non-Mountain hex by right-clicking the hex.  
+Move the camera with WASD.  
+Zoom in/out with the scroll wheel.  
   
   
 Preview!  
