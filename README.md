@@ -6,7 +6,7 @@ When running the project, it first generates a 15x15 map of hexagons. These hexe
 Each hex can be one of 4 types:
 1. Plains: Traversable at a cost of 1, Spawn chance of 50%
 2. Hills: Traversable at a cost of 2, Spawn chance of 30%
-3. Forrest: Traversable at a cost of 5, Spawn chance of 10%
+3. Forest: Traversable at a cost of 5, Spawn chance of 10%
 4. Mountains: Not traversable, Spawn chance of 10%
 
 
